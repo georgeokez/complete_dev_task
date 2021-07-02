@@ -1,0 +1,72 @@
+[
+  {
+    "emotion_id": 1321,
+    "emotion": "Exuberant",
+    "X": -0.9347532,
+    "Y": -0.8295911,
+    "count": 1
+  },
+  {
+    "emotion_id": 1325,
+    "emotion": "Exhilarated",
+    "X": -0.8120833,
+    "Y": -0.9570833,
+    "count": 3
+  },
+  {
+    "emotion_id": 1326,
+    "emotion": "Ecstasy",
+    "X": -0.9650397,
+    "Y": -0.8760266,
+    "count": 1
+  },
+  {
+    "emotion_id": 1327,
+    "emotion": "Jubilation",
+    "X": -0.8783475,
+    "Y": -0.7936574,
+    "count": 1
+  },
+  {
+    "emotion_id": 1332,
+    "emotion": "Bliss",
+    "X": -0.8175213,
+    "Y": -0.4072437,
+    "count": 2
+  },
+  {
+    "emotion_id": 1334,
+    "emotion": "Determination",
+    "X": -0.6792,
+    "Y": -0.8364993,
+    "count": 2
+  },
+  {
+    "emotion_id": 1336,
+    "emotion": "Enthusiastic",
+    "X": -0.6944852,
+    "Y": -0.8274905,
+    "count": 10
+  },
+  {
+    "emotion_id": 1343,
+    "emotion": "Thrilled",
+    "X": -0.5709065,
+    "Y": -0.767044,
+    "count": 1
+  },
+  {
+    "emotion_id": 1347,
+    "emotion": "Inspired",
+    "X": -0.6969825,
+    "Y": -0.5815478,
+    "count": 1
+  },
+  {
+    "emotion_id": 1348,
+    "emotion": "Joy",
+    "X": -0.6203438,
+    "Y": -0.6265667,
+    "count": 2
+  }
+]
