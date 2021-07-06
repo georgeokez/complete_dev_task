@@ -1,0 +1,37 @@
+.sidebar{
+    flex: 1;
+    height: auto;
+    background-color:rgb(246, 250, 252);
+    position: sticky;
+    top: 50;
+}
+
+.sidebar-wrapper{
+    color: #555;
+}
+
+.sidebar-menu{
+    margin-bottom: 10px;
+}
+
+.sidebar-list {
+    list-style: none;
+    padding: 5px;
+    margin: 0;
+}
+
+.sidebar-listitem{
+    padding: 10px 5px;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    border-radius: 5px;
+}
+
+.sidebar-listitem.active, .sidebar-listitem:hover{
+    background-color: #eff2f5;
+}
+
+.sidebar-menu-label{
+    padding-left: 20px;
+}
