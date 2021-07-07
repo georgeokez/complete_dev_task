@@ -12,16 +12,14 @@ import {
     Cell
   } from 'recharts';
 
-  import InputLabel from '@material-ui/core/InputLabel';
   import MenuItem from '@material-ui/core/MenuItem';
   import FormControl from '@material-ui/core/FormControl';
   import Select from '@material-ui/core/Select';
-  import Button from '@material-ui/core/Button';
   
   import LaunchIcon from '@material-ui/icons/Launch';
 
   import {data} from '../../data/DataUtils';
-  import {sortedData} from '../../data/DataUtils';
+  //mport {sortedData} from '../../data/DataUtils';
 
   import { scaleOrdinal } from 'd3-scale';
   import { schemeCategory10 } from 'd3-scale-chromatic';

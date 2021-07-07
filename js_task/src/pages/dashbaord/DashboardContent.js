@@ -2,7 +2,6 @@ import React from 'react'
 import './dashboardContent.css';
 import Paper from '@material-ui/core/Paper';
 import Grid from '@material-ui/core/Grid';
-import BubbleChart from '../../components/charts/BubbleChart';
 import LineChartComp from '../../components/charts/LineChartComp';
 import BarChartComp from '../../components/charts/BarChartComp';
 import ScatterChartComp from '../../components/charts/ScatterChartComp';

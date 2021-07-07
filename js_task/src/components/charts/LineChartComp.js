@@ -1,18 +1,16 @@
 import {React, useState} from 'react';
-import { LineChart, Line, XAxis, YAxis, CartesianGrid, Tooltip, Legend, ResponsiveContainer } from 'recharts';
+import { LineChart, Line, XAxis, YAxis, CartesianGrid, Tooltip, ResponsiveContainer } from 'recharts';
 import LaunchIcon from '@material-ui/icons/Launch';
 import "./chart.css";
 import {data} from '../../data/DataUtils';
 
-import InputLabel from '@material-ui/core/InputLabel';
 import MenuItem from '@material-ui/core/MenuItem';
 import FormControl from '@material-ui/core/FormControl';
 import Select from '@material-ui/core/Select';
-import Button from '@material-ui/core/Button';
 
 import {Link} from 'react-router-dom';
 
-const chartData = [...data]
+//const chartData = [...data]
 
 function LineChartComp() {
 
