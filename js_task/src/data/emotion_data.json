@@ -1,0 +1,3279 @@
+[
+  {
+    "emotion_id": 1321,
+    "emotion": "Exuberant",
+    "X": -0.9347532,
+    "Y": -0.8295911,
+    "count": 1
+  },
+  {
+    "emotion_id": 1325,
+    "emotion": "Exhilarated",
+    "X": -0.8120833,
+    "Y": -0.9570833,
+    "count": 3
+  },
+  {
+    "emotion_id": 1326,
+    "emotion": "Ecstasy",
+    "X": -0.9650397,
+    "Y": -0.8760266,
+    "count": 1
+  },
+  {
+    "emotion_id": 1327,
+    "emotion": "Jubilation",
+    "X": -0.8783475,
+    "Y": -0.7936574,
+    "count": 1
+  },
+  {
+    "emotion_id": 1332,
+    "emotion": "Bliss",
+    "X": -0.8175213,
+    "Y": -0.4072437,
+    "count": 2
+  },
+  {
+    "emotion_id": 1334,
+    "emotion": "Determination",
+    "X": -0.6792,
+    "Y": -0.8364993,
+    "count": 2
+  },
+  {
+    "emotion_id": 1336,
+    "emotion": "Enthusiastic",
+    "X": -0.6944852,
+    "Y": -0.8274905,
+    "count": 10
+  },
+  {
+    "emotion_id": 1343,
+    "emotion": "Thrilled",
+    "X": -0.5709065,
+    "Y": -0.767044,
+    "count": 1
+  },
+  {
+    "emotion_id": 1347,
+    "emotion": "Inspired",
+    "X": -0.6969825,
+    "Y": -0.5815478,
+    "count": 1
+  },
+  {
+    "emotion_id": 1348,
+    "emotion": "Joy",
+    "X": -0.6203438,
+    "Y": -0.6265667,
+    "count": 2
+  },
+  {
+    "emotion_id": 1349,
+    "emotion": "Engaged",
+    "X": -0.181506,
+    "Y": -0.5805409,
+    "count": 8
+  },
+  {
+    "emotion_id": 1351,
+    "emotion": "Motivated",
+    "X": -0.72375,
+    "Y": -0.71875,
+    "count": 60
+  },
+  {
+    "emotion_id": 1353,
+    "emotion": "Happy",
+    "X": -0.925,
+    "Y": -0.4575,
+    "count": 62
+  },
+  {
+    "emotion_id": 1354,
+    "emotion": "Enlightened",
+    "X": -0.9379513,
+    "Y": -0.3074093,
+    "count": 1
+  },
+  {
+    "emotion_id": 1358,
+    "emotion": "Positive",
+    "X": -0.8824185,
+    "Y": -0.2054912,
+    "count": 2
+  },
+  {
+    "emotion_id": 1359,
+    "emotion": "Compassionate",
+    "X": -0.9275,
+    "Y": -0.05375,
+    "count": 4
+  },
+  {
+    "emotion_id": 1364,
+    "emotion": "Humorous",
+    "X": -0.6841644,
+    "Y": -0.2308827,
+    "count": 2
+  },
+  {
+    "emotion_id": 1366,
+    "emotion": "Loved",
+    "X": -0.8028373,
+    "Y": -0.1615992,
+    "count": 5
+  },
+  {
+    "emotion_id": 1369,
+    "emotion": "Optimistic",
+    "X": -0.9633159,
+    "Y": -0.2116593,
+    "count": 44
+  },
+  {
+    "emotion_id": 1370,
+    "emotion": "Successful",
+    "X": -0.8483486,
+    "Y": -0.1067652,
+    "count": 5
+  },
+  {
+    "emotion_id": 1371,
+    "emotion": "Resolute",
+    "X": -0.0720833,
+    "Y": -0.2204167,
+    "count": 3
+  },
+  {
+    "emotion_id": 1373,
+    "emotion": "Confident",
+    "X": -0.7034838,
+    "Y": -0.456679,
+    "count": 26
+  },
+  {
+    "emotion_id": 1376,
+    "emotion": "Involved",
+    "X": -0.513284,
+    "Y": -0.4069121,
+    "count": 1
+  },
+  {
+    "emotion_id": 1379,
+    "emotion": "Intelligent",
+    "X": -0.6157652,
+    "Y": -0.1555433,
+    "count": 1
+  },
+  {
+    "emotion_id": 1384,
+    "emotion": "Moved",
+    "X": -0.6579065,
+    "Y": -0.143669,
+    "count": 1
+  },
+  {
+    "emotion_id": 1385,
+    "emotion": "Sure",
+    "X": -0.560527,
+    "Y": -0.1942655,
+    "count": 2
+  },
+  {
+    "emotion_id": 1386,
+    "emotion": "Mischievous",
+    "X": -0.7100582,
+    "Y": -0.04393,
+    "count": 3
+  },
+  {
+    "emotion_id": 1390,
+    "emotion": "Appreciated",
+    "X": -0.925482,
+    "Y": 0.10777405,
+    "count": 16
+  },
+  {
+    "emotion_id": 1392,
+    "emotion": "Empathic",
+    "X": -0.8396502,
+    "Y": 0.08196979,
+    "count": 3
+  },
+  {
+    "emotion_id": 1393,
+    "emotion": "Caring",
+    "X": -0.9508333,
+    "Y": 0.45208333,
+    "count": 1
+  },
+  {
+    "emotion_id": 1396,
+    "emotion": "Valued",
+    "X": -0.843781,
+    "Y": 0.42037418,
+    "count": 4
+  },
+  {
+    "emotion_id": 1397,
+    "emotion": "Appreciation",
+    "X": -0.9512394,
+    "Y": 0.26861848,
+    "count": 1
+  },
+  {
+    "emotion_id": 1401,
+    "emotion": "Kind",
+    "X": -0.66625,
+    "Y": 0.03375,
+    "count": 9
+  },
+  {
+    "emotion_id": 1402,
+    "emotion": "Gratitude",
+    "X": -0.6098546,
+    "Y": 0.07604903,
+    "count": 1
+  },
+  {
+    "emotion_id": 1403,
+    "emotion": "Grateful",
+    "X": -0.6811156,
+    "Y": 0.19684472,
+    "count": 12
+  },
+  {
+    "emotion_id": 1404,
+    "emotion": "Thankful",
+    "X": -0.524938,
+    "Y": 0.16261652,
+    "count": 2
+  },
+  {
+    "emotion_id": 1405,
+    "emotion": "Good",
+    "X": -0.6670534,
+    "Y": 0.28687604,
+    "count": 72
+  },
+  {
+    "emotion_id": 1407,
+    "emotion": "Patient",
+    "X": -0.5316667,
+    "Y": 0.46666667,
+    "count": 3
+  },
+  {
+    "emotion_id": 1412,
+    "emotion": "Tranquil",
+    "X": -0.9330687,
+    "Y": 0.95094857,
+    "count": 5
+  },
+  {
+    "emotion_id": 1414,
+    "emotion": "Peaceful",
+    "X": -0.9531301,
+    "Y": 0.83528718,
+    "count": 9
+  },
+  {
+    "emotion_id": 1419,
+    "emotion": "Amazed",
+    "X": -0.45125,
+    "Y": -0.9358333,
+    "count": 4
+  },
+  {
+    "emotion_id": 1422,
+    "emotion": "Assertive",
+    "X": -0.2982675,
+    "Y": -0.9493194,
+    "count": 1
+  },
+  {
+    "emotion_id": 1425,
+    "emotion": "Dedicated",
+    "X": -0.2977082,
+    "Y": -0.5396681,
+    "count": 1
+  },
+  {
+    "emotion_id": 1427,
+    "emotion": "Strong",
+    "X": -0.4430568,
+    "Y": -0.6640615,
+    "count": 7
+  },
+  {
+    "emotion_id": 1428,
+    "emotion": "Efficient",
+    "X": -0.4611374,
+    "Y": -0.7101692,
+    "count": 5
+  },
+  {
+    "emotion_id": 1429,
+    "emotion": "Fulfilled",
+    "X": -0.29,
+    "Y": -0.5920833,
+    "count": 11
+  },
+  {
+    "emotion_id": 1430,
+    "emotion": "Hopeful",
+    "X": -0.3857341,
+    "Y": -0.548946,
+    "count": 20
+  },
+  {
+    "emotion_id": 1431,
+    "emotion": "Fascinated",
+    "X": -0.2154987,
+    "Y": -0.7823878,
+    "count": 1
+  },
+  {
+    "emotion_id": 1433,
+    "emotion": "Bold",
+    "X": -0.200589,
+    "Y": -0.936128,
+    "count": 1
+  },
+  {
+    "emotion_id": 1436,
+    "emotion": "Warm",
+    "X": -0.3575885,
+    "Y": 0.12975757,
+    "count": 4
+  },
+  {
+    "emotion_id": 1437,
+    "emotion": "Busy",
+    "X": -0.1920833,
+    "Y": -0.68,
+    "count": 59
+  },
+  {
+    "emotion_id": 1438,
+    "emotion": "Pleased",
+    "X": -0.5655908,
+    "Y": 0.19293536,
+    "count": 22
+  },
+  {
+    "emotion_id": 1441,
+    "emotion": "Brave",
+    "X": -0.2910314,
+    "Y": -0.3512709,
+    "count": 2
+  },
+  {
+    "emotion_id": 1442,
+    "emotion": "Creative",
+    "X": -0.4480753,
+    "Y": -0.3005667,
+    "count": 6
+  },
+  {
+    "emotion_id": 1444,
+    "emotion": "Encouraged",
+    "X": -0.4694521,
+    "Y": -0.2830878,
+    "count": 1
+  },
+  {
+    "emotion_id": 1445,
+    "emotion": "Inquisitive",
+    "X": -0.3670828,
+    "Y": -0.2661507,
+    "count": 1
+  },
+  {
+    "emotion_id": 1447,
+    "emotion": "Generous",
+    "X": -0.41625,
+    "Y": -0.47,
+    "count": 4
+  },
+  {
+    "emotion_id": 1449,
+    "emotion": "Accomplished",
+    "X": -0.4164785,
+    "Y": -0.104289,
+    "count": 7
+  },
+  {
+    "emotion_id": 1450,
+    "emotion": "Cheerful",
+    "X": -0.39125,
+    "Y": -0.2183333,
+    "count": 89
+  },
+  {
+    "emotion_id": 1451,
+    "emotion": "Amiable",
+    "X": -0.4198689,
+    "Y": -0.2078065,
+    "count": 1
+  },
+  {
+    "emotion_id": 1455,
+    "emotion": "Healthy",
+    "X": -0.31625,
+    "Y": -0.1054167,
+    "count": 7
+  },
+  {
+    "emotion_id": 1459,
+    "emotion": "Comfortable",
+    "X": -0.3105944,
+    "Y": -0.0868076,
+    "count": 2
+  },
+  {
+    "emotion_id": 1462,
+    "emotion": "Respected",
+    "X": -0.1820447,
+    "Y": -0.4555121,
+    "count": 1
+  },
+  {
+    "emotion_id": 1463,
+    "emotion": "Effective",
+    "X": -0.2314264,
+    "Y": -0.2905955,
+    "count": 11
+  },
+  {
+    "emotion_id": 1465,
+    "emotion": "Responsive",
+    "X": -0.0824296,
+    "Y": -0.3970332,
+    "count": 1
+  },
+  {
+    "emotion_id": 1468,
+    "emotion": "Solid",
+    "X": -0.1373521,
+    "Y": -0.2876381,
+    "count": 3
+  },
+  {
+    "emotion_id": 1469,
+    "emotion": "Anticipation",
+    "X": -0.165,
+    "Y": -0.46125,
+    "count": 20
+  },
+  {
+    "emotion_id": 1472,
+    "emotion": "Competent",
+    "X": -0.0173884,
+    "Y": -0.1949606,
+    "count": 3
+  },
+  {
+    "emotion_id": 1474,
+    "emotion": "Capable",
+    "X": -0.0599369,
+    "Y": -0.0452002,
+    "count": 17
+  },
+  {
+    "emotion_id": 1475,
+    "emotion": "Alive",
+    "X": -0.1908333,
+    "Y": -0.2091667,
+    "count": 39
+  },
+  {
+    "emotion_id": 1478,
+    "emotion": "Resolved",
+    "X": -0.2106562,
+    "Y": -0.1593349,
+    "count": 1
+  },
+  {
+    "emotion_id": 1482,
+    "emotion": "Committed",
+    "X": -0.2969519,
+    "Y": 0.04083053,
+    "count": 12
+  },
+  {
+    "emotion_id": 1484,
+    "emotion": "Secure",
+    "X": -0.4263562,
+    "Y": 0.16055605,
+    "count": 2
+  },
+  {
+    "emotion_id": 1485,
+    "emotion": "Satisfied",
+    "X": -0.2874978,
+    "Y": 0.20349637,
+    "count": 10
+  },
+  {
+    "emotion_id": 1486,
+    "emotion": "Chuffed",
+    "X": -0.2658915,
+    "Y": 0.13783398,
+    "count": 1
+  },
+  {
+    "emotion_id": 1490,
+    "emotion": "Sensitive",
+    "X": -0.3016667,
+    "Y": 0.46166667,
+    "count": 6
+  },
+  {
+    "emotion_id": 1491,
+    "emotion": "Valuable",
+    "X": -0.3079119,
+    "Y": 0.27574535,
+    "count": 1
+  },
+  {
+    "emotion_id": 1493,
+    "emotion": "Glad",
+    "X": -0.4713747,
+    "Y": 0.40205209,
+    "count": 2
+  },
+  {
+    "emotion_id": 1497,
+    "emotion": "Fortunate",
+    "X": -0.4634023,
+    "Y": 0.31910495,
+    "count": 39
+  },
+  {
+    "emotion_id": 1498,
+    "emotion": "Reassured",
+    "X": -0.3942506,
+    "Y": 0.40031566,
+    "count": 3
+  },
+  {
+    "emotion_id": 1499,
+    "emotion": "Thoughtful",
+    "X": -0.1004781,
+    "Y": 0.06024587,
+    "count": 5
+  },
+  {
+    "emotion_id": 1501,
+    "emotion": "Interest",
+    "X": -0.0517506,
+    "Y": 0.05350237,
+    "count": 4
+  },
+  {
+    "emotion_id": 1503,
+    "emotion": "Sharing",
+    "X": -0.0317332,
+    "Y": 0.13139901,
+    "count": 1
+  },
+  {
+    "emotion_id": 1504,
+    "emotion": "Quiet",
+    "X": -0.0466667,
+    "Y": 0.45958333,
+    "count": 12
+  },
+  {
+    "emotion_id": 1506,
+    "emotion": "Able",
+    "X": -0.1454167,
+    "Y": 0.28166667,
+    "count": 38
+  },
+  {
+    "emotion_id": 1508,
+    "emotion": "Adequate",
+    "X": -0.2292172,
+    "Y": 0.26574253,
+    "count": 1
+  },
+  {
+    "emotion_id": 1510,
+    "emotion": "Absorbed",
+    "X": -0.3021766,
+    "Y": 0.54019114,
+    "count": 3
+  },
+  {
+    "emotion_id": 1514,
+    "emotion": "Relaxed",
+    "X": -0.4575601,
+    "Y": 0.83008608,
+    "count": 54
+  },
+  {
+    "emotion_id": 1515,
+    "emotion": "Relieved",
+    "X": -0.3173745,
+    "Y": 0.79028695,
+    "count": 11
+  },
+  {
+    "emotion_id": 1517,
+    "emotion": "Unburdened",
+    "X": -0.0556245,
+    "Y": 0.57239602,
+    "count": 1
+  },
+  {
+    "emotion_id": 1518,
+    "emotion": "Sleepy",
+    "X": -0.185,
+    "Y": 0.92208333,
+    "count": 24
+  },
+  {
+    "emotion_id": 1522,
+    "emotion": "Decent",
+    "X": -0.0164086,
+    "Y": 0.12318683,
+    "count": 3
+  },
+  {
+    "emotion_id": 1524,
+    "emotion": "Excitable",
+    "X": -0.7142824,
+    "Y": -0.9401307,
+    "count": 1
+  },
+  {
+    "emotion_id": 1525,
+    "emotion": "Love",
+    "X": -0.8078062,
+    "Y": -0.2186389,
+    "count": 1
+  },
+  {
+    "emotion_id": 1529,
+    "emotion": "Definite",
+    "X": -0.0641667,
+    "Y": -0.5483333,
+    "count": 1
+  },
+  {
+    "emotion_id": 1531,
+    "emotion": "Knowledgeable",
+    "X": -0.5487979,
+    "Y": 0.31381089,
+    "count": 3
+  },
+  {
+    "emotion_id": 1545,
+    "emotion": "Awesome",
+    "X": -0.7469298,
+    "Y": -0.659937,
+    "count": 1
+  },
+  {
+    "emotion_id": 1550,
+    "emotion": "Exemplary",
+    "X": -0.643197,
+    "Y": -0.4400694,
+    "count": 1
+  },
+  {
+    "emotion_id": 1556,
+    "emotion": "Fantastic",
+    "X": -0.5474556,
+    "Y": -0.7100609,
+    "count": 9
+  },
+  {
+    "emotion_id": 1570,
+    "emotion": "Pleasant",
+    "X": -0.0566402,
+    "Y": 0.94465324,
+    "count": 1
+  },
+  {
+    "emotion_id": 1576,
+    "emotion": "Innovative",
+    "X": -0.5857115,
+    "Y": -0.6315809,
+    "count": 2
+  },
+  {
+    "emotion_id": 1587,
+    "emotion": "Glee",
+    "X": -0.7074002,
+    "Y": -0.782897,
+    "count": 1
+  },
+  {
+    "emotion_id": 1589,
+    "emotion": "Rational",
+    "X": -0.186802,
+    "Y": -0.3458168,
+    "count": 1
+  },
+  {
+    "emotion_id": 1590,
+    "emotion": "Refreshed",
+    "X": -0.7141667,
+    "Y": -0.2908333,
+    "count": 3
+  },
+  {
+    "emotion_id": 1591,
+    "emotion": "Smart",
+    "X": -0.2866959,
+    "Y": -0.1896211,
+    "count": 2
+  },
+  {
+    "emotion_id": 1596,
+    "emotion": "Fine",
+    "X": -0.2070833,
+    "Y": 0.80208333,
+    "count": 63
+  },
+  {
+    "emotion_id": 1597,
+    "emotion": "Friendly",
+    "X": -0.3436623,
+    "Y": -0.2313684,
+    "count": 2
+  },
+  {
+    "emotion_id": 1605,
+    "emotion": "Active",
+    "X": -0.1330214,
+    "Y": -0.3995027,
+    "count": 4
+  },
+  {
+    "emotion_id": 1608,
+    "emotion": "Experienced",
+    "X": -0.4100832,
+    "Y": 0.64966193,
+    "count": 1
+  },
+  {
+    "emotion_id": 1610,
+    "emotion": "Perfect",
+    "X": -0.818023,
+    "Y": 0.15199217,
+    "count": 2
+  },
+  {
+    "emotion_id": 1614,
+    "emotion": "Stoical",
+    "X": -0.1272397,
+    "Y": -0.0981632,
+    "count": 1
+  },
+  {
+    "emotion_id": 1616,
+    "emotion": "Ethical",
+    "X": -0.677685,
+    "Y": 0.11456069,
+    "count": 1
+  },
+  {
+    "emotion_id": 1617,
+    "emotion": "Great",
+    "X": -0.4604167,
+    "Y": -0.7204167,
+    "count": 27
+  },
+  {
+    "emotion_id": 1623,
+    "emotion": "Acknowledgement",
+    "X": -0.3558845,
+    "Y": 0.30810833,
+    "count": 1
+  },
+  {
+    "emotion_id": 1628,
+    "emotion": "Exceptional",
+    "X": -0.9448721,
+    "Y": -0.6980866,
+    "count": 4
+  },
+  {
+    "emotion_id": 1638,
+    "emotion": "Enough",
+    "X": -0.5460893,
+    "Y": 0.4379857,
+    "count": 2
+  },
+  {
+    "emotion_id": 1641,
+    "emotion": "Lovely",
+    "X": -0.9422699,
+    "Y": 0.29751505,
+    "count": 7
+  },
+  {
+    "emotion_id": 1649,
+    "emotion": "Careful",
+    "X": -0.0281341,
+    "Y": -0.1550188,
+    "count": 1
+  },
+  {
+    "emotion_id": 1657,
+    "emotion": "Reasonable",
+    "X": -0.1675,
+    "Y": 0.54291667,
+    "count": 25
+  },
+  {
+    "emotion_id": 1672,
+    "emotion": "Ecstatic",
+    "X": -0.951571,
+    "Y": -0.8063806,
+    "count": 1
+  },
+  {
+    "emotion_id": 1679,
+    "emotion": "Prepared",
+    "X": -0.0795833,
+    "Y": -0.4295833,
+    "count": 13
+  },
+  {
+    "emotion_id": 1681,
+    "emotion": "Reserved",
+    "X": -0.0719331,
+    "Y": 0.69675665,
+    "count": 5
+  },
+  {
+    "emotion_id": 1687,
+    "emotion": "Agreeable",
+    "X": -0.3677121,
+    "Y": 0.43504042,
+    "count": 1
+  },
+  {
+    "emotion_id": 1688,
+    "emotion": "Blessed",
+    "X": -0.7216617,
+    "Y": 0.08657031,
+    "count": 2
+  },
+  {
+    "emotion_id": 1701,
+    "emotion": "Willing",
+    "X": -0.5636215,
+    "Y": 0.03182008,
+    "count": 9
+  },
+  {
+    "emotion_id": 1705,
+    "emotion": "Ambivalent",
+    "X": 0.10555033,
+    "Y": 0.39306891,
+    "count": 3
+  },
+  {
+    "emotion_id": 1706,
+    "emotion": "Beaming",
+    "X": -0.8513064,
+    "Y": -0.1857388,
+    "count": 1
+  },
+  {
+    "emotion_id": 1708,
+    "emotion": "Equilibrium",
+    "X": -0.2089664,
+    "Y": 0.15514271,
+    "count": 4
+  },
+  {
+    "emotion_id": 1712,
+    "emotion": "Funny",
+    "X": -0.6667567,
+    "Y": -0.0490643,
+    "count": 1
+  },
+  {
+    "emotion_id": 1714,
+    "emotion": "Jolly",
+    "X": -0.4051639,
+    "Y": -0.0416289,
+    "count": 1
+  },
+  {
+    "emotion_id": 1718,
+    "emotion": "Responsiblity",
+    "X": -0.0589496,
+    "Y": -0.3240235,
+    "count": 1
+  },
+  {
+    "emotion_id": 1731,
+    "emotion": "Engrossed",
+    "X": -0.2116667,
+    "Y": 0.20125,
+    "count": 5
+  },
+  {
+    "emotion_id": 1732,
+    "emotion": "Free",
+    "X": -0.1834152,
+    "Y": -0.0786309,
+    "count": 5
+  },
+  {
+    "emotion_id": 1735,
+    "emotion": "Productive",
+    "X": -0.5456535,
+    "Y": -0.4543137,
+    "count": 30
+  },
+  {
+    "emotion_id": 1736,
+    "emotion": "Ready",
+    "X": -0.45875,
+    "Y": 0.535,
+    "count": 44
+  },
+  {
+    "emotion_id": 1757,
+    "emotion": "Acknowledged",
+    "X": -0.3071592,
+    "Y": 0.67845959,
+    "count": 7
+  },
+  {
+    "emotion_id": 1761,
+    "emotion": "Calm",
+    "X": -0.282978,
+    "Y": 0.96959512,
+    "count": 26
+  },
+  {
+    "emotion_id": 1765,
+    "emotion": "Essential",
+    "X": -0.6892983,
+    "Y": 0.04498816,
+    "count": 3
+  },
+  {
+    "emotion_id": 1769,
+    "emotion": "Inspiring",
+    "X": -0.9774443,
+    "Y": -0.5455914,
+    "count": 1
+  },
+  {
+    "emotion_id": 1777,
+    "emotion": "Sociable",
+    "X": -0.4520582,
+    "Y": -0.0472218,
+    "count": 3
+  },
+  {
+    "emotion_id": 1785,
+    "emotion": "Intent",
+    "X": -0.1469604,
+    "Y": 0.10405937,
+    "count": 2
+  },
+  {
+    "emotion_id": 1789,
+    "emotion": "Boosted",
+    "X": -0.1513995,
+    "Y": -0.5876603,
+    "count": 1
+  },
+  {
+    "emotion_id": 1804,
+    "emotion": "Reliable",
+    "X": -0.4081678,
+    "Y": -0.2001569,
+    "count": 1
+  },
+  {
+    "emotion_id": 1807,
+    "emotion": "Tough",
+    "X": -0.290164,
+    "Y": -0.7177326,
+    "count": 1
+  },
+  {
+    "emotion_id": 1812,
+    "emotion": "Adamant",
+    "X": -0.3632084,
+    "Y": -0.5246721,
+    "count": 2
+  },
+  {
+    "emotion_id": 1816,
+    "emotion": "Conscious",
+    "X": -0.1042351,
+    "Y": -0.2796085,
+    "count": 1
+  },
+  {
+    "emotion_id": 1819,
+    "emotion": "Driven",
+    "X": -0.2882623,
+    "Y": -0.8449004,
+    "count": 6
+  },
+  {
+    "emotion_id": 1820,
+    "emotion": "Electric",
+    "X": -0.6767463,
+    "Y": -0.5414991,
+    "count": 1
+  },
+  {
+    "emotion_id": 1821,
+    "emotion": "Energized",
+    "X": -0.5477475,
+    "Y": -0.810498,
+    "count": 14
+  },
+  {
+    "emotion_id": 1824,
+    "emotion": "Entertained",
+    "X": -0.5604906,
+    "Y": -0.1147414,
+    "count": 1
+  },
+  {
+    "emotion_id": 1830,
+    "emotion": "Methodical",
+    "X": -0.2899738,
+    "Y": 0.20256582,
+    "count": 3
+  },
+  {
+    "emotion_id": 1841,
+    "emotion": "Stable",
+    "X": -0.078876,
+    "Y": 0.36509882,
+    "count": 2
+  },
+  {
+    "emotion_id": 1849,
+    "emotion": "Athletic",
+    "X": -0.3790352,
+    "Y": -0.5836033,
+    "count": 1
+  },
+  {
+    "emotion_id": 1853,
+    "emotion": "Enjoyment",
+    "X": -0.6643417,
+    "Y": -0.1048439,
+    "count": 2
+  },
+  {
+    "emotion_id": 1854,
+    "emotion": "Keen",
+    "X": -0.1112286,
+    "Y": -0.8480228,
+    "count": 10
+  },
+  {
+    "emotion_id": 1859,
+    "emotion": "Professional",
+    "X": -0.08875,
+    "Y": 0.32458333,
+    "count": 1
+  },
+  {
+    "emotion_id": 1861,
+    "emotion": "Receptive",
+    "X": -0.458393,
+    "Y": -0.1867491,
+    "count": 1
+  },
+  {
+    "emotion_id": 1862,
+    "emotion": "Sensible",
+    "X": -0.0622689,
+    "Y": 0.57756811,
+    "count": 1
+  },
+  {
+    "emotion_id": 1863,
+    "emotion": "Skillful",
+    "X": -0.2072277,
+    "Y": 0.29161789,
+    "count": 1
+  },
+  {
+    "emotion_id": 1872,
+    "emotion": "Adventurous",
+    "X": -0.3517767,
+    "Y": -0.579208,
+    "count": 1
+  },
+  {
+    "emotion_id": 1877,
+    "emotion": "Influential",
+    "X": -0.5368561,
+    "Y": -0.21229,
+    "count": 1
+  },
+  {
+    "emotion_id": 1878,
+    "emotion": "Informed",
+    "X": -0.049649,
+    "Y": 0.18583724,
+    "count": 7
+  },
+  {
+    "emotion_id": 1884,
+    "emotion": "Principled",
+    "X": -0.3113844,
+    "Y": 0.24304663,
+    "count": 1
+  },
+  {
+    "emotion_id": 1896,
+    "emotion": "Amazing",
+    "X": -0.6770882,
+    "Y": -0.8701878,
+    "count": 3
+  },
+  {
+    "emotion_id": 1899,
+    "emotion": "Dreamy",
+    "X": -0.5367716,
+    "Y": 0.93065944,
+    "count": 1
+  },
+  {
+    "emotion_id": 1903,
+    "emotion": "Meaningful",
+    "X": -0.7985412,
+    "Y": -0.1064064,
+    "count": 1
+  },
+  {
+    "emotion_id": 1906,
+    "emotion": "Realistic",
+    "X": -0.2153125,
+    "Y": 0.48143456,
+    "count": 1
+  },
+  {
+    "emotion_id": 1910,
+    "emotion": "Trusted",
+    "X": -0.6517398,
+    "Y": 0.91313147,
+    "count": 1
+  },
+  {
+    "emotion_id": 1912,
+    "emotion": "Chilled",
+    "X": -0.6479774,
+    "Y": 0.68375675,
+    "count": 15
+  },
+  {
+    "emotion_id": 1918,
+    "emotion": "Fanciful",
+    "X": -0.0217808,
+    "Y": 0.07648631,
+    "count": 1
+  },
+  {
+    "emotion_id": 1923,
+    "emotion": "Heartfelt",
+    "X": -0.6062062,
+    "Y": 0.0190472,
+    "count": 1
+  },
+  {
+    "emotion_id": 1934,
+    "emotion": "Brilliant",
+    "X": -0.559019,
+    "Y": -0.5585077,
+    "count": 8
+  },
+  {
+    "emotion_id": 1941,
+    "emotion": "Buzzing",
+    "X": -0.5313357,
+    "Y": -0.6610221,
+    "count": 9
+  },
+  {
+    "emotion_id": 1947,
+    "emotion": "Independent",
+    "X": -0.7383514,
+    "Y": 0.09090983,
+    "count": 1
+  },
+  {
+    "emotion_id": 1950,
+    "emotion": "Natural",
+    "X": -0.0415138,
+    "Y": -0.0443897,
+    "count": 1
+  },
+  {
+    "emotion_id": 1963,
+    "emotion": "Triumphant",
+    "X": -0.8668137,
+    "Y": -0.649495,
+    "count": 1
+  },
+  {
+    "emotion_id": 1965,
+    "emotion": "Available",
+    "X": -0.530687,
+    "Y": 0.40114449,
+    "count": 1
+  },
+  {
+    "emotion_id": 1973,
+    "emotion": "Balanced",
+    "X": -0.6649789,
+    "Y": 0.4093849,
+    "count": 2
+  },
+  {
+    "emotion_id": 1975,
+    "emotion": "Complete",
+    "X": -0.8022505,
+    "Y": 0.04503914,
+    "count": 5
+  },
+  {
+    "emotion_id": 1986,
+    "emotion": "Proud",
+    "X": -0.8937628,
+    "Y": 0.19851738,
+    "count": 16
+  },
+  {
+    "emotion_id": 1991,
+    "emotion": "Tentative",
+    "X": 0.06814463,
+    "Y": 0.80302438,
+    "count": 2
+  },
+  {
+    "emotion_id": 1992,
+    "emotion": "Unbiased",
+    "X": -0.189312,
+    "Y": 0.64436697,
+    "count": 1
+  },
+  {
+    "emotion_id": 1998,
+    "emotion": "Communicative",
+    "X": -0.1647059,
+    "Y": -0.0955247,
+    "count": 2
+  },
+  {
+    "emotion_id": 2001,
+    "emotion": "Cosy",
+    "X": -0.3526391,
+    "Y": 0.12172154,
+    "count": 1
+  },
+  {
+    "emotion_id": 2016,
+    "emotion": "Responsible",
+    "X": -0.1658487,
+    "Y": -0.3353917,
+    "count": 9
+  },
+  {
+    "emotion_id": 2019,
+    "emotion": "Sufficient",
+    "X": -0.8058333,
+    "Y": 0.69666667,
+    "count": 2
+  },
+  {
+    "emotion_id": 2026,
+    "emotion": "Ambitious",
+    "X": -0.6600366,
+    "Y": -0.723008,
+    "count": 2
+  },
+  {
+    "emotion_id": 2030,
+    "emotion": "Constant",
+    "X": -0.3446548,
+    "Y": 0.31607575,
+    "count": 1
+  },
+  {
+    "emotion_id": 2033,
+    "emotion": "Lucky",
+    "X": -0.0506339,
+    "Y": -0.2937154,
+    "count": 10
+  },
+  {
+    "emotion_id": 2036,
+    "emotion": "Purposeful",
+    "X": -0.8569521,
+    "Y": -0.1944536,
+    "count": 7
+  },
+  {
+    "emotion_id": 2048,
+    "emotion": "Impressed",
+    "X": -0.4437276,
+    "Y": -0.3392293,
+    "count": 1
+  },
+  {
+    "emotion_id": 2057,
+    "emotion": "Settled",
+    "X": -0.6843783,
+    "Y": 0.77614817,
+    "count": 18
+  },
+  {
+    "emotion_id": 2061,
+    "emotion": "Celebrated",
+    "X": -0.4760573,
+    "Y": -0.4669789,
+    "count": 2
+  },
+  {
+    "emotion_id": 2066,
+    "emotion": "Compliant",
+    "X": -0.1587794,
+    "Y": 0.55295727,
+    "count": 1
+  },
+  {
+    "emotion_id": 2067,
+    "emotion": "Developed",
+    "X": -0.5388755,
+    "Y": 0.29675094,
+    "count": 1
+  },
+  {
+    "emotion_id": 2068,
+    "emotion": "Enthused",
+    "X": -0.4629523,
+    "Y": -0.3383475,
+    "count": 1
+  },
+  {
+    "emotion_id": 2081,
+    "emotion": "Saturated",
+    "X": 0.2792701,
+    "Y": -0.7389797,
+    "count": 2
+  },
+  {
+    "emotion_id": 2082,
+    "emotion": "Supportive",
+    "X": -0.2827086,
+    "Y": 0.05339605,
+    "count": 7
+  },
+  {
+    "emotion_id": 2085,
+    "emotion": "Wired",
+    "X": -0.139518,
+    "Y": -0.9303836,
+    "count": 1
+  },
+  {
+    "emotion_id": 2091,
+    "emotion": "Alright",
+    "X": -0.0725379,
+    "Y": 0.82853573,
+    "count": 17
+  },
+  {
+    "emotion_id": 2095,
+    "emotion": "Introspective",
+    "X": -0.3136174,
+    "Y": 0.98610064,
+    "count": 1
+  },
+  {
+    "emotion_id": 2106,
+    "emotion": "Flexible",
+    "X": -0.1662563,
+    "Y": 0.41193111,
+    "count": 2
+  },
+  {
+    "emotion_id": 2109,
+    "emotion": "Maternal",
+    "X": -0.785906,
+    "Y": 0.52916392,
+    "count": 2
+  },
+  {
+    "emotion_id": 2118,
+    "emotion": "Thunderstruck",
+    "X": 0.28033831,
+    "Y": -0.8712014,
+    "count": 1
+  },
+  {
+    "emotion_id": 2123,
+    "emotion": "Clever",
+    "X": -0.5327267,
+    "Y": 0.01913594,
+    "count": 1
+  },
+  {
+    "emotion_id": 2125,
+    "emotion": "Supported",
+    "X": -0.2721202,
+    "Y": 0.15372339,
+    "count": 1
+  },
+  {
+    "emotion_id": 2129,
+    "emotion": "Stupid",
+    "X": 0.45858818,
+    "Y": 0.03672639,
+    "count": 2
+  },
+  {
+    "emotion_id": 2131,
+    "emotion": "Jittery",
+    "X": 0.16976358,
+    "Y": -0.5456084,
+    "count": 5
+  },
+  {
+    "emotion_id": 2132,
+    "emotion": "Restless",
+    "X": 0.0459417,
+    "Y": -0.5441211,
+    "count": 9
+  },
+  {
+    "emotion_id": 2133,
+    "emotion": "Impatient",
+    "X": 0.18805326,
+    "Y": -0.6832192,
+    "count": 5
+  },
+  {
+    "emotion_id": 2134,
+    "emotion": "Worried",
+    "X": 0.04048475,
+    "Y": -0.7126135,
+    "count": 24
+  },
+  {
+    "emotion_id": 2136,
+    "emotion": "Pissed off",
+    "X": 0.43305983,
+    "Y": -0.9303978,
+    "count": 4
+  },
+  {
+    "emotion_id": 2138,
+    "emotion": "Scared",
+    "X": 0.45692591,
+    "Y": -0.8014226,
+    "count": 1
+  },
+  {
+    "emotion_id": 2139,
+    "emotion": "Annoyed",
+    "X": 0.38544263,
+    "Y": -0.9585191,
+    "count": 10
+  },
+  {
+    "emotion_id": 2140,
+    "emotion": "Irritated",
+    "X": 0.32615669,
+    "Y": -0.8422709,
+    "count": 5
+  },
+  {
+    "emotion_id": 2141,
+    "emotion": "Panicky",
+    "X": 0.44236824,
+    "Y": -0.9623513,
+    "count": 5
+  },
+  {
+    "emotion_id": 2142,
+    "emotion": "Pent up",
+    "X": 0.28567114,
+    "Y": -0.8161065,
+    "count": 1
+  },
+  {
+    "emotion_id": 2143,
+    "emotion": "Fiery",
+    "X": 0.31245404,
+    "Y": -0.9894103,
+    "count": 1
+  },
+  {
+    "emotion_id": 2148,
+    "emotion": "Terrible",
+    "X": 0.33708333,
+    "Y": -0.7204167,
+    "count": 2
+  },
+  {
+    "emotion_id": 2150,
+    "emotion": "Hassled",
+    "X": 0.31660538,
+    "Y": -0.5473061,
+    "count": 2
+  },
+  {
+    "emotion_id": 2153,
+    "emotion": "Upset",
+    "X": 0.18984108,
+    "Y": -0.2802037,
+    "count": 3
+  },
+  {
+    "emotion_id": 2154,
+    "emotion": "Uneasy",
+    "X": 0.08612483,
+    "Y": -0.2954313,
+    "count": 1
+  },
+  {
+    "emotion_id": 2155,
+    "emotion": "Longing",
+    "X": 0.19780218,
+    "Y": -0.4846951,
+    "count": 1
+  },
+  {
+    "emotion_id": 2156,
+    "emotion": "Skeptical",
+    "X": 0.16083333,
+    "Y": 0.02833333,
+    "count": 3
+  },
+  {
+    "emotion_id": 2157,
+    "emotion": "Perplexed",
+    "X": 0.14902029,
+    "Y": -0.3639229,
+    "count": 2
+  },
+  {
+    "emotion_id": 2165,
+    "emotion": "Lost",
+    "X": 0.21406577,
+    "Y": -0.1759332,
+    "count": 1
+  },
+  {
+    "emotion_id": 2166,
+    "emotion": "Cross",
+    "X": 0.20216998,
+    "Y": -0.4679134,
+    "count": 2
+  },
+  {
+    "emotion_id": 2167,
+    "emotion": "Perturbed",
+    "X": 0.32617134,
+    "Y": -0.4457825,
+    "count": 1
+  },
+  {
+    "emotion_id": 2171,
+    "emotion": "Concerned",
+    "X": 0.4075,
+    "Y": -0.4195833,
+    "count": 4
+  },
+  {
+    "emotion_id": 2173,
+    "emotion": "Tearful",
+    "X": 0.42070884,
+    "Y": -0.2914017,
+    "count": 1
+  },
+  {
+    "emotion_id": 2175,
+    "emotion": "Suspicious",
+    "X": 0.31828379,
+    "Y": -0.3367196,
+    "count": 1
+  },
+  {
+    "emotion_id": 2178,
+    "emotion": "Tense",
+    "X": 0.1075,
+    "Y": -0.4695833,
+    "count": 29
+  },
+  {
+    "emotion_id": 2182,
+    "emotion": "Grumpy",
+    "X": 0.44830553,
+    "Y": -0.1953302,
+    "count": 1
+  },
+  {
+    "emotion_id": 2183,
+    "emotion": "Apprehensive",
+    "X": 0.35509904,
+    "Y": -0.2085142,
+    "count": 3
+  },
+  {
+    "emotion_id": 2184,
+    "emotion": "Troubled",
+    "X": 0.39213211,
+    "Y": -0.163797,
+    "count": 1
+  },
+  {
+    "emotion_id": 2190,
+    "emotion": "Unsettled",
+    "X": 0.17166667,
+    "Y": 0.20833333,
+    "count": 8
+  },
+  {
+    "emotion_id": 2192,
+    "emotion": "Sore",
+    "X": 0.21709863,
+    "Y": 0.12451969,
+    "count": 1
+  },
+  {
+    "emotion_id": 2194,
+    "emotion": "Doubtful",
+    "X": 0.03752829,
+    "Y": 0.03211314,
+    "count": 1
+  },
+  {
+    "emotion_id": 2196,
+    "emotion": "Wary",
+    "X": 0.1405485,
+    "Y": 0.03204785,
+    "count": 4
+  },
+  {
+    "emotion_id": 2197,
+    "emotion": "Unsure",
+    "X": 0.05541667,
+    "Y": 0.20458333,
+    "count": 20
+  },
+  {
+    "emotion_id": 2198,
+    "emotion": "Distant",
+    "X": 0.01834544,
+    "Y": 0.05125114,
+    "count": 6
+  },
+  {
+    "emotion_id": 2199,
+    "emotion": "Removed",
+    "X": 0.20121938,
+    "Y": 0.10234348,
+    "count": 1
+  },
+  {
+    "emotion_id": 2203,
+    "emotion": "Confused",
+    "X": 0.08875,
+    "Y": 0.28125,
+    "count": 19
+  },
+  {
+    "emotion_id": 2206,
+    "emotion": "Weak",
+    "X": 0.09125,
+    "Y": 0.46166667,
+    "count": 4
+  },
+  {
+    "emotion_id": 2209,
+    "emotion": "Uncertain",
+    "X": 0.18520435,
+    "Y": 0.469243,
+    "count": 8
+  },
+  {
+    "emotion_id": 2214,
+    "emotion": "Empty",
+    "X": 0.1839269,
+    "Y": 0.33661425,
+    "count": 4
+  },
+  {
+    "emotion_id": 2219,
+    "emotion": "Discouraged",
+    "X": 0.3351709,
+    "Y": 0.09995806,
+    "count": 2
+  },
+  {
+    "emotion_id": 2220,
+    "emotion": "Disappointed",
+    "X": 0.34416667,
+    "Y": 0.03208333,
+    "count": 23
+  },
+  {
+    "emotion_id": 2224,
+    "emotion": "Bewildered",
+    "X": 0.29085608,
+    "Y": 0.18492596,
+    "count": 2
+  },
+  {
+    "emotion_id": 2226,
+    "emotion": "Unappreciated",
+    "X": 0.32107503,
+    "Y": 0.20098209,
+    "count": 8
+  },
+  {
+    "emotion_id": 2227,
+    "emotion": "Displeased",
+    "X": 0.33928227,
+    "Y": 0.22420486,
+    "count": 1
+  },
+  {
+    "emotion_id": 2228,
+    "emotion": "Burdened",
+    "X": 0.35317751,
+    "Y": 0.09327297,
+    "count": 1
+  },
+  {
+    "emotion_id": 2231,
+    "emotion": "Withdrawn",
+    "X": 0.31162656,
+    "Y": 0.32896679,
+    "count": 1
+  },
+  {
+    "emotion_id": 2233,
+    "emotion": "Weary",
+    "X": 0.41625,
+    "Y": 0.4575,
+    "count": 3
+  },
+  {
+    "emotion_id": 2234,
+    "emotion": "Disconnected",
+    "X": 0.54202803,
+    "Y": 0.30251559,
+    "count": 3
+  },
+  {
+    "emotion_id": 2235,
+    "emotion": "Deflated",
+    "X": 0.45968028,
+    "Y": 0.28110627,
+    "count": 3
+  },
+  {
+    "emotion_id": 2236,
+    "emotion": "Knocked-back",
+    "X": 0.45280273,
+    "Y": 0.32177842,
+    "count": 1
+  },
+  {
+    "emotion_id": 2241,
+    "emotion": "Tired",
+    "X": 0.0475,
+    "Y": 0.60541667,
+    "count": 162
+  },
+  {
+    "emotion_id": 2243,
+    "emotion": "Fatigued",
+    "X": 0.1994447,
+    "Y": 0.68257386,
+    "count": 12
+  },
+  {
+    "emotion_id": 2244,
+    "emotion": "Hurt",
+    "X": 0.2034376,
+    "Y": 0.54041574,
+    "count": 2
+  },
+  {
+    "emotion_id": 2246,
+    "emotion": "Apathetic",
+    "X": 0.20038837,
+    "Y": 0.80252771,
+    "count": 2
+  },
+  {
+    "emotion_id": 2248,
+    "emotion": "Lethargic",
+    "X": 0.03061468,
+    "Y": 0.90288576,
+    "count": 1
+  },
+  {
+    "emotion_id": 2250,
+    "emotion": "Done",
+    "X": 0.38649389,
+    "Y": 0.77492267,
+    "count": 1
+  },
+  {
+    "emotion_id": 2251,
+    "emotion": "Alone",
+    "X": 0.20961983,
+    "Y": 0.96314545,
+    "count": 6
+  },
+  {
+    "emotion_id": 2253,
+    "emotion": "Low",
+    "X": 0.07450081,
+    "Y": 0.83186687,
+    "count": 1
+  },
+  {
+    "emotion_id": 2255,
+    "emotion": "Lousy",
+    "X": 0.36696656,
+    "Y": 0.53082202,
+    "count": 1
+  },
+  {
+    "emotion_id": 2260,
+    "emotion": "Worn-out",
+    "X": 0.28704798,
+    "Y": 0.774633,
+    "count": 4
+  },
+  {
+    "emotion_id": 2262,
+    "emotion": "Exhausted",
+    "X": 0.34416667,
+    "Y": 0.78125,
+    "count": 38
+  },
+  {
+    "emotion_id": 2263,
+    "emotion": "Drained",
+    "X": 0.41666667,
+    "Y": 0.96625,
+    "count": 18
+  },
+  {
+    "emotion_id": 2266,
+    "emotion": "Distraught",
+    "X": 0.70665755,
+    "Y": -0.8586695,
+    "count": 2
+  },
+  {
+    "emotion_id": 2269,
+    "emotion": "Fear",
+    "X": 0.70708333,
+    "Y": -0.5466667,
+    "count": 1
+  },
+  {
+    "emotion_id": 2271,
+    "emotion": "Aggrieved",
+    "X": 0.63590246,
+    "Y": -0.4483322,
+    "count": 1
+  },
+  {
+    "emotion_id": 2272,
+    "emotion": "Anger",
+    "X": 0.64356905,
+    "Y": -0.6262557,
+    "count": 2
+  },
+  {
+    "emotion_id": 2282,
+    "emotion": "Violent",
+    "X": 0.84083333,
+    "Y": -0.8420833,
+    "count": 1
+  },
+  {
+    "emotion_id": 2286,
+    "emotion": "Explosive",
+    "X": 0.8106277,
+    "Y": -0.943444,
+    "count": 2
+  },
+  {
+    "emotion_id": 2288,
+    "emotion": "Furious",
+    "X": 0.82987654,
+    "Y": -0.9674947,
+    "count": 2
+  },
+  {
+    "emotion_id": 2289,
+    "emotion": "Rage",
+    "X": 0.95705257,
+    "Y": -0.8430097,
+    "count": 1
+  },
+  {
+    "emotion_id": 2294,
+    "emotion": "Exasperated",
+    "X": 0.78028583,
+    "Y": -0.5393569,
+    "count": 2
+  },
+  {
+    "emotion_id": 2298,
+    "emotion": "Livid",
+    "X": 0.8075,
+    "Y": -0.71375,
+    "count": 6
+  },
+  {
+    "emotion_id": 2300,
+    "emotion": "Seething",
+    "X": 0.82548125,
+    "Y": -0.6059883,
+    "count": 1
+  },
+  {
+    "emotion_id": 2310,
+    "emotion": "Rejected",
+    "X": 0.54107654,
+    "Y": -0.5573927,
+    "count": 1
+  },
+  {
+    "emotion_id": 2315,
+    "emotion": "Distressed",
+    "X": 0.69039876,
+    "Y": -0.0480294,
+    "count": 2
+  },
+  {
+    "emotion_id": 2319,
+    "emotion": "Undermined",
+    "X": 0.53916667,
+    "Y": -0.16875,
+    "count": 4
+  },
+  {
+    "emotion_id": 2322,
+    "emotion": "Pained",
+    "X": 0.71883468,
+    "Y": -0.2191506,
+    "count": 1
+  },
+  {
+    "emotion_id": 2329,
+    "emotion": "Desperate",
+    "X": 0.86699122,
+    "Y": -0.46751,
+    "count": 1
+  },
+  {
+    "emotion_id": 2331,
+    "emotion": "Bitter",
+    "X": 0.79924514,
+    "Y": -0.4646244,
+    "count": 6
+  },
+  {
+    "emotion_id": 2332,
+    "emotion": "Disgust",
+    "X": 0.82333333,
+    "Y": -0.335,
+    "count": 1
+  },
+  {
+    "emotion_id": 2333,
+    "emotion": "Repulsed",
+    "X": 0.91842201,
+    "Y": -0.2963769,
+    "count": 1
+  },
+  {
+    "emotion_id": 2334,
+    "emotion": "Disgraced",
+    "X": 0.94793183,
+    "Y": -0.2190551,
+    "count": 1
+  },
+  {
+    "emotion_id": 2336,
+    "emotion": "Awful",
+    "X": 0.76690962,
+    "Y": -0.2332902,
+    "count": 1
+  },
+  {
+    "emotion_id": 2339,
+    "emotion": "Cheated",
+    "X": 0.79083333,
+    "Y": -0.2,
+    "count": 2
+  },
+  {
+    "emotion_id": 2347,
+    "emotion": "Cynical",
+    "X": 0.58458333,
+    "Y": 0.03833333,
+    "count": 9
+  },
+  {
+    "emotion_id": 2348,
+    "emotion": "Disheartened",
+    "X": 0.66814295,
+    "Y": 0.05917282,
+    "count": 2
+  },
+  {
+    "emotion_id": 2352,
+    "emotion": "Downtrodden",
+    "X": 0.64011783,
+    "Y": 0.07753187,
+    "count": 1
+  },
+  {
+    "emotion_id": 2354,
+    "emotion": "Inadequate",
+    "X": 0.69623761,
+    "Y": 0.19652558,
+    "count": 2
+  },
+  {
+    "emotion_id": 2355,
+    "emotion": "Grieving",
+    "X": 0.77590405,
+    "Y": 0.08281487,
+    "count": 1
+  },
+  {
+    "emotion_id": 2357,
+    "emotion": "Controlled",
+    "X": 0.72141252,
+    "Y": 0.08427102,
+    "count": 1
+  },
+  {
+    "emotion_id": 2364,
+    "emotion": "Sadness",
+    "X": 0.96991644,
+    "Y": 0.13368933,
+    "count": 1
+  },
+  {
+    "emotion_id": 2366,
+    "emotion": "Unloved",
+    "X": 0.67958333,
+    "Y": 0.27875,
+    "count": 1
+  },
+  {
+    "emotion_id": 2367,
+    "emotion": "Vulnerable",
+    "X": 0.68786453,
+    "Y": 0.43729965,
+    "count": 1
+  },
+  {
+    "emotion_id": 2370,
+    "emotion": "Neglected",
+    "X": 0.62428242,
+    "Y": 0.45224105,
+    "count": 1
+  },
+  {
+    "emotion_id": 2371,
+    "emotion": "Negative",
+    "X": 0.56169132,
+    "Y": 0.27840014,
+    "count": 11
+  },
+  {
+    "emotion_id": 2383,
+    "emotion": "Miserable",
+    "X": 0.80995268,
+    "Y": 0.3001568,
+    "count": 3
+  },
+  {
+    "emotion_id": 2390,
+    "emotion": "Depressed",
+    "X": 0.58548171,
+    "Y": 0.53344015,
+    "count": 4
+  },
+  {
+    "emotion_id": 2393,
+    "emotion": "Insignificant",
+    "X": 0.70190279,
+    "Y": 0.78889702,
+    "count": 1
+  },
+  {
+    "emotion_id": 2395,
+    "emotion": "Overwhelmed",
+    "X": 0.5945074,
+    "Y": 0.64256027,
+    "count": 4
+  },
+  {
+    "emotion_id": 2398,
+    "emotion": "Despondent",
+    "X": 0.70870804,
+    "Y": 0.95669643,
+    "count": 1
+  },
+  {
+    "emotion_id": 2401,
+    "emotion": "Worthless",
+    "X": 0.60504707,
+    "Y": 0.78539549,
+    "count": 5
+  },
+  {
+    "emotion_id": 2403,
+    "emotion": "Devastated",
+    "X": 0.82375,
+    "Y": 0.54,
+    "count": 2
+  },
+  {
+    "emotion_id": 2408,
+    "emotion": "Hopeless",
+    "X": 0.85676589,
+    "Y": 0.81659884,
+    "count": 20
+  },
+  {
+    "emotion_id": 2409,
+    "emotion": "Desolate",
+    "X": 0.85767789,
+    "Y": 0.92465091,
+    "count": 1
+  },
+  {
+    "emotion_id": 2411,
+    "emotion": "Shattered",
+    "X": 0.97321262,
+    "Y": 0.9145041,
+    "count": 1
+  },
+  {
+    "emotion_id": 2417,
+    "emotion": "Stressed",
+    "X": 0.5425,
+    "Y": -0.465,
+    "count": 27
+  },
+  {
+    "emotion_id": 2423,
+    "emotion": "Tetchiness",
+    "X": 0.18570338,
+    "Y": -0.43329,
+    "count": 1
+  },
+  {
+    "emotion_id": 2444,
+    "emotion": "Useless",
+    "X": 0.59072171,
+    "Y": 0.89677856,
+    "count": 3
+  },
+  {
+    "emotion_id": 2456,
+    "emotion": "Delicate",
+    "X": 0.1863479,
+    "Y": 0.56339295,
+    "count": 3
+  },
+  {
+    "emotion_id": 2477,
+    "emotion": "Spent",
+    "X": 0.21639826,
+    "Y": 0.90950565,
+    "count": 2
+  },
+  {
+    "emotion_id": 2492,
+    "emotion": "Disquiet",
+    "X": 0.07152906,
+    "Y": 0.28379364,
+    "count": 1
+  },
+  {
+    "emotion_id": 2499,
+    "emotion": "Adversity",
+    "X": 0.14295074,
+    "Y": -0.6130775,
+    "count": 1
+  },
+  {
+    "emotion_id": 2500,
+    "emotion": "Aspiration",
+    "X": -0.2209063,
+    "Y": -0.3752992,
+    "count": 1
+  },
+  {
+    "emotion_id": 2502,
+    "emotion": "Dozy",
+    "X": 0.08306511,
+    "Y": 0.63428467,
+    "count": 7
+  },
+  {
+    "emotion_id": 2521,
+    "emotion": "Chagrin",
+    "X": 0.11090226,
+    "Y": -0.1376323,
+    "count": 1
+  },
+  {
+    "emotion_id": 2528,
+    "emotion": "Stupefied",
+    "X": 0.53897735,
+    "Y": 0.21228369,
+    "count": 1
+  },
+  {
+    "emotion_id": 2532,
+    "emotion": "Vacuous",
+    "X": 0.6465385,
+    "Y": 0.65054816,
+    "count": 1
+  },
+  {
+    "emotion_id": 2555,
+    "emotion": "Bizarre",
+    "X": 0.14129621,
+    "Y": -0.4574942,
+    "count": 1
+  },
+  {
+    "emotion_id": 2559,
+    "emotion": "Drab",
+    "X": 0.19440705,
+    "Y": 0.16367932,
+    "count": 1
+  },
+  {
+    "emotion_id": 2564,
+    "emotion": "Fed up",
+    "X": 0.05368502,
+    "Y": 0.58219153,
+    "count": 11
+  },
+  {
+    "emotion_id": 2567,
+    "emotion": "Struggling",
+    "X": 0.34557623,
+    "Y": 0.1695639,
+    "count": 12
+  },
+  {
+    "emotion_id": 2569,
+    "emotion": "Weird",
+    "X": 0.06387255,
+    "Y": -0.0375909,
+    "count": 1
+  },
+  {
+    "emotion_id": 2579,
+    "emotion": "Stubborn",
+    "X": 0.31001206,
+    "Y": -0.4357377,
+    "count": 1
+  },
+  {
+    "emotion_id": 2585,
+    "emotion": "Baffled",
+    "X": 0.14489509,
+    "Y": -0.249031,
+    "count": 1
+  },
+  {
+    "emotion_id": 2590,
+    "emotion": "Disconcerted",
+    "X": 0.40882835,
+    "Y": -0.217306,
+    "count": 1
+  },
+  {
+    "emotion_id": 2595,
+    "emotion": "Expired",
+    "X": 0.4105728,
+    "Y": 0.91358637,
+    "count": 1
+  },
+  {
+    "emotion_id": 2598,
+    "emotion": "Ineffective",
+    "X": 0.38919882,
+    "Y": 0.5152529,
+    "count": 2
+  },
+  {
+    "emotion_id": 2609,
+    "emotion": "Dependent",
+    "X": 0.36490182,
+    "Y": 0.04420061,
+    "count": 2
+  },
+  {
+    "emotion_id": 2621,
+    "emotion": "Temperamental",
+    "X": 0.28067711,
+    "Y": 0.07347969,
+    "count": 1
+  },
+  {
+    "emotion_id": 2623,
+    "emotion": "Volatile",
+    "X": 0.20588195,
+    "Y": -0.9397803,
+    "count": 1
+  },
+  {
+    "emotion_id": 2627,
+    "emotion": "Broken",
+    "X": 0.44945174,
+    "Y": 0.69105712,
+    "count": 1
+  },
+  {
+    "emotion_id": 2630,
+    "emotion": "Edgy",
+    "X": 0.10584971,
+    "Y": -0.3268693,
+    "count": 9
+  },
+  {
+    "emotion_id": 2642,
+    "emotion": "Disgruntled",
+    "X": 0.11374589,
+    "Y": -0.2181639,
+    "count": 2
+  },
+  {
+    "emotion_id": 2651,
+    "emotion": "Reduced",
+    "X": 0.59848659,
+    "Y": 0.62954952,
+    "count": 1
+  },
+  {
+    "emotion_id": 2658,
+    "emotion": "Bad",
+    "X": 0.33880894,
+    "Y": 0.53805089,
+    "count": 3
+  },
+  {
+    "emotion_id": 2659,
+    "emotion": "Bruised",
+    "X": 0.36716094,
+    "Y": 0.26165206,
+    "count": 1
+  },
+  {
+    "emotion_id": 2663,
+    "emotion": "Condescended",
+    "X": 0.65289095,
+    "Y": -0.1293452,
+    "count": 1
+  },
+  {
+    "emotion_id": 2664,
+    "emotion": "Dilapidated",
+    "X": 0.14460107,
+    "Y": 0.11104099,
+    "count": 1
+  },
+  {
+    "emotion_id": 2666,
+    "emotion": "Fretting",
+    "X": 0.04331102,
+    "Y": -0.5735018,
+    "count": 2
+  },
+  {
+    "emotion_id": 2676,
+    "emotion": "Unreasonable",
+    "X": 0.0088171,
+    "Y": -0.4223269,
+    "count": 1
+  },
+  {
+    "emotion_id": 2688,
+    "emotion": "Egocentric",
+    "X": 0.30065187,
+    "Y": -0.8556951,
+    "count": 1
+  },
+  {
+    "emotion_id": 2690,
+    "emotion": "Flat",
+    "X": 0.11593805,
+    "Y": 0.58490381,
+    "count": 5
+  },
+  {
+    "emotion_id": 2693,
+    "emotion": "Lazy",
+    "X": 0.34606471,
+    "Y": 0.92321947,
+    "count": 12
+  },
+  {
+    "emotion_id": 2696,
+    "emotion": "Raw",
+    "X": 0.38048381,
+    "Y": -0.6031209,
+    "count": 1
+  },
+  {
+    "emotion_id": 2704,
+    "emotion": "Cautious",
+    "X": 0.04666667,
+    "Y": 0.09208333,
+    "count": 20
+  },
+  {
+    "emotion_id": 2707,
+    "emotion": "Slow",
+    "X": 0.23422967,
+    "Y": 0.95245422,
+    "count": 3
+  },
+  {
+    "emotion_id": 2714,
+    "emotion": "Envied",
+    "X": 0.06887861,
+    "Y": -0.4528542,
+    "count": 1
+  },
+  {
+    "emotion_id": 2730,
+    "emotion": "Down",
+    "X": 0.35843661,
+    "Y": 0.6440944,
+    "count": 10
+  },
+  {
+    "emotion_id": 2732,
+    "emotion": "Dread",
+    "X": 0.42898917,
+    "Y": 0.91481828,
+    "count": 1
+  },
+  {
+    "emotion_id": 2739,
+    "emotion": "Peculiar",
+    "X": 0.06219437,
+    "Y": 0.21260494,
+    "count": 1
+  },
+  {
+    "emotion_id": 2746,
+    "emotion": "Barren",
+    "X": 0.20055995,
+    "Y": 0.62397253,
+    "count": 3
+  },
+  {
+    "emotion_id": 2750,
+    "emotion": "Affrighted",
+    "X": 0.37364957,
+    "Y": -0.544237,
+    "count": 1
+  },
+  {
+    "emotion_id": 2754,
+    "emotion": "Disbelief",
+    "X": 0.09352455,
+    "Y": -0.1533086,
+    "count": 2
+  },
+  {
+    "emotion_id": 2757,
+    "emotion": "Forgotten",
+    "X": 0.17221008,
+    "Y": 0.68421455,
+    "count": 1
+  },
+  {
+    "emotion_id": 2766,
+    "emotion": "Pathetic",
+    "X": 0.45593998,
+    "Y": 0.78275526,
+    "count": 1
+  },
+  {
+    "emotion_id": 2773,
+    "emotion": "Unproductive",
+    "X": 0.032787,
+    "Y": 0.70452486,
+    "count": 1
+  },
+  {
+    "emotion_id": 2783,
+    "emotion": "Defeatist",
+    "X": 0.47360669,
+    "Y": 0.28723333,
+    "count": 1
+  },
+  {
+    "emotion_id": 2784,
+    "emotion": "Disenchanted",
+    "X": 0.51534659,
+    "Y": 0.21503296,
+    "count": 1
+  },
+  {
+    "emotion_id": 2798,
+    "emotion": "Rough",
+    "X": 0.07416667,
+    "Y": -0.21875,
+    "count": 8
+  },
+  {
+    "emotion_id": 2803,
+    "emotion": "Sluggish",
+    "X": 0.15514424,
+    "Y": 0.73522044,
+    "count": 3
+  },
+  {
+    "emotion_id": 2814,
+    "emotion": "Guilty",
+    "X": 0.32708333,
+    "Y": -0.2170833,
+    "count": 4
+  },
+  {
+    "emotion_id": 2820,
+    "emotion": "Pessimistic",
+    "X": 0.335,
+    "Y": 0.28208333,
+    "count": 9
+  },
+  {
+    "emotion_id": 2830,
+    "emotion": "Incredulous",
+    "X": 0.01573923,
+    "Y": -0.7271602,
+    "count": 1
+  },
+  {
+    "emotion_id": 2839,
+    "emotion": "Complacent",
+    "X": 0.18845243,
+    "Y": 0.42394428,
+    "count": 1
+  },
+  {
+    "emotion_id": 2846,
+    "emotion": "Idiotic",
+    "X": 0.31424886,
+    "Y": -0.4198396,
+    "count": 1
+  },
+  {
+    "emotion_id": 2848,
+    "emotion": "Nugatory",
+    "X": 0.37481822,
+    "Y": 0.97469996,
+    "count": 1
+  },
+  {
+    "emotion_id": 2856,
+    "emotion": "Undervalued",
+    "X": 0.14858746,
+    "Y": 0.19997722,
+    "count": 2
+  },
+  {
+    "emotion_id": 2896,
+    "emotion": "Discombobulated",
+    "X": 0.25488003,
+    "Y": -0.1403193,
+    "count": 1
+  },
+  {
+    "emotion_id": 2907,
+    "emotion": "Sulky",
+    "X": 0.13018799,
+    "Y": 0.57422373,
+    "count": 1
+  },
+  {
+    "emotion_id": 2911,
+    "emotion": "Flighty",
+    "X": 0.03545706,
+    "Y": -0.3482328,
+    "count": 1
+  },
+  {
+    "emotion_id": 2913,
+    "emotion": "Madcap",
+    "X": 0.02105612,
+    "Y": -0.2957902,
+    "count": 1
+  },
+  {
+    "emotion_id": 2917,
+    "emotion": "Adrift",
+    "X": 0.05333735,
+    "Y": 0.35248791,
+    "count": 1
+  },
+  {
+    "emotion_id": 2924,
+    "emotion": "Shadowy",
+    "X": 0.03648218,
+    "Y": 0.51556007,
+    "count": 1
+  },
+  {
+    "emotion_id": 2929,
+    "emotion": "Nostalgic",
+    "X": -0.3103007,
+    "Y": -0.2005488,
+    "count": 3
+  },
+  {
+    "emotion_id": 2967,
+    "emotion": "Frank",
+    "X": -0.0600897,
+    "Y": -0.3855546,
+    "count": 2
+  },
+  {
+    "emotion_id": 2974,
+    "emotion": "Emboldened",
+    "X": -0.6596311,
+    "Y": -0.4483758,
+    "count": 1
+  },
+  {
+    "emotion_id": 2977,
+    "emotion": "Composed",
+    "X": -0.6705219,
+    "Y": 0.52966676,
+    "count": 23
+  },
+  {
+    "emotion_id": 2986,
+    "emotion": "Conscientious",
+    "X": -0.2265093,
+    "Y": 0.62419205,
+    "count": 1
+  },
+  {
+    "emotion_id": 2987,
+    "emotion": "Resferber",
+    "X": 0.05048812,
+    "Y": -0.6201356,
+    "count": 1
+  },
+  { "emotion_id": 3009, "emotion": "OK", "X": -0.33, "Y": -0.385, "count": 5 },
+  {
+    "emotion_id": 3010,
+    "emotion": "Frustrated",
+    "X": 0.29444131,
+    "Y": -0.9277729,
+    "count": 43
+  },
+  {
+    "emotion_id": 3011,
+    "emotion": "Anxious",
+    "X": 0.07791667,
+    "Y": -0.9275,
+    "count": 57
+  },
+  {
+    "emotion_id": 3012,
+    "emotion": "Curious",
+    "X": -0.4608333,
+    "Y": 0.03708333,
+    "count": 11
+  },
+  {
+    "emotion_id": 3013,
+    "emotion": "Bored",
+    "X": 0.04458333,
+    "Y": 0.82458333,
+    "count": 8
+  },
+  {
+    "emotion_id": 9081,
+    "emotion": "Passionate",
+    "X": -0.9338755,
+    "Y": -0.9561676,
+    "count": 7
+  },
+  {
+    "emotion_id": 54161,
+    "emotion": "Content",
+    "X": -0.9518024,
+    "Y": 0.542405,
+    "count": 34
+  },
+  {
+    "emotion_id": 54162,
+    "emotion": "Amused",
+    "X": -0.9199516,
+    "Y": 0.66694402,
+    "count": 3
+  },
+  {
+    "emotion_id": 54164,
+    "emotion": "Excited",
+    "X": -0.7245196,
+    "Y": -0.9635557,
+    "count": 20
+  },
+  {
+    "emotion_id": 54165,
+    "emotion": "Courageous",
+    "X": -0.6695833,
+    "Y": -0.2204167,
+    "count": 8
+  },
+  {
+    "emotion_id": 54167,
+    "emotion": "Determined",
+    "X": -0.5443484,
+    "Y": -0.9505565,
+    "count": 1
+  },
+  {
+    "emotion_id": 54168,
+    "emotion": "Focused",
+    "X": -0.291561,
+    "Y": -0.4644241,
+    "count": 31
+  },
+  {
+    "emotion_id": 54169,
+    "emotion": "Interested",
+    "X": -0.1875,
+    "Y": 0.02916667,
+    "count": 25
+  },
+  {
+    "emotion_id": 54171,
+    "emotion": "Surprised",
+    "X": -0.076811,
+    "Y": -0.7018106,
+    "count": 5
+  },
+  {
+    "emotion_id": 54172,
+    "emotion": "Nervous",
+    "X": 0.05180442,
+    "Y": -0.8123715,
+    "count": 10
+  },
+  {
+    "emotion_id": 54173,
+    "emotion": "Agitated",
+    "X": 0.17734647,
+    "Y": -0.9562592,
+    "count": 7
+  },
+  {
+    "emotion_id": 54174,
+    "emotion": "Irritable",
+    "X": 0.21497251,
+    "Y": -0.7993397,
+    "count": 3
+  },
+  {
+    "emotion_id": 54175,
+    "emotion": "Criticised",
+    "X": 0.32208333,
+    "Y": -0.47,
+    "count": 4
+  },
+  {
+    "emotion_id": 54176,
+    "emotion": "Defensive",
+    "X": 0.31322106,
+    "Y": -0.0404402,
+    "count": 2
+  },
+  {
+    "emotion_id": 54179,
+    "emotion": "Angry",
+    "X": 0.59934842,
+    "Y": -0.7165653,
+    "count": 6
+  },
+  {
+    "emotion_id": 54180,
+    "emotion": "Mad",
+    "X": 0.70612237,
+    "Y": -0.9711765,
+    "count": 1
+  },
+  {
+    "emotion_id": 54181,
+    "emotion": "Sad",
+    "X": 0.83375,
+    "Y": 0.04416667,
+    "count": 21
+  },
+  {
+    "emotion_id": 54188,
+    "emotion": "Incredible",
+    "X": -0.5525,
+    "Y": -0.8525,
+    "count": 1
+  },
+  {
+    "emotion_id": 54190,
+    "emotion": "Unbelievable",
+    "X": -0.62,
+    "Y": -0.9125,
+    "count": 1
+  },
+  {
+    "emotion_id": 54192,
+    "emotion": "Marvelous",
+    "X": -0.6775,
+    "Y": -0.6975,
+    "count": 2
+  },
+  {
+    "emotion_id": 54194,
+    "emotion": "Persistent",
+    "X": -0.575,
+    "Y": -0.5425,
+    "count": 1
+  },
+  {
+    "emotion_id": 54196,
+    "emotion": "Entranced",
+    "X": -0.7825,
+    "Y": -0.4575,
+    "count": 1
+  },
+  {
+    "emotion_id": 54201,
+    "emotion": "Delightful",
+    "X": -0.7883333,
+    "Y": -0.3216667,
+    "count": 1
+  },
+  {
+    "emotion_id": 54207,
+    "emotion": "Mirth",
+    "X": -0.71,
+    "Y": -0.2175,
+    "count": 1
+  },
+  {
+    "emotion_id": 54208,
+    "emotion": "Admiration",
+    "X": -0.68,
+    "Y": -0.1375,
+    "count": 1
+  },
+  {
+    "emotion_id": 54232,
+    "emotion": "Sparky",
+    "X": -0.165,
+    "Y": -0.57,
+    "count": 1
+  },
+  {
+    "emotion_id": 54234,
+    "emotion": "Chipper",
+    "X": -0.075,
+    "Y": -0.38,
+    "count": 2
+  },
+  {
+    "emotion_id": 54235,
+    "emotion": "Sprightly",
+    "X": -0.0875,
+    "Y": -0.41,
+    "count": 1
+  },
+  {
+    "emotion_id": 54236,
+    "emotion": "Co-operative",
+    "X": -0.115,
+    "Y": -0.21,
+    "count": 2
+  },
+  {
+    "emotion_id": 54237,
+    "emotion": "Fresh",
+    "X": -0.0125,
+    "Y": -0.2125,
+    "count": 3
+  },
+  {
+    "emotion_id": 54241,
+    "emotion": "Plucky",
+    "X": -0.0625,
+    "Y": -0.0925,
+    "count": 1
+  },
+  {
+    "emotion_id": 54242,
+    "emotion": "Revived",
+    "X": -0.2425,
+    "Y": -0.0375,
+    "count": 1
+  },
+  {
+    "emotion_id": 54245,
+    "emotion": "Alluring",
+    "X": -0.3475,
+    "Y": 0.105,
+    "count": 1
+  },
+  {
+    "emotion_id": 54250,
+    "emotion": "Anxiety",
+    "X": 0.0925,
+    "Y": -0.8375,
+    "count": 7
+  },
+  {
+    "emotion_id": 54251,
+    "emotion": "Angst",
+    "X": 0.1125,
+    "Y": -0.995,
+    "count": 3
+  },
+  {
+    "emotion_id": 54252,
+    "emotion": "Uptight",
+    "X": 0.0325,
+    "Y": -0.7791667,
+    "count": 1
+  },
+  {
+    "emotion_id": 54253,
+    "emotion": "Foreboding",
+    "X": 0.055,
+    "Y": -0.7833333,
+    "count": 5
+  },
+  {
+    "emotion_id": 54256,
+    "emotion": "Frustration",
+    "X": 0.48,
+    "Y": -0.9025,
+    "count": 1
+  },
+  {
+    "emotion_id": 54258,
+    "emotion": "Stalled",
+    "X": 0.0625,
+    "Y": -0.3525,
+    "count": 1
+  },
+  {
+    "emotion_id": 54261,
+    "emotion": "Blas\u221a\u00ae",
+    "X": 0.035,
+    "Y": -0.1225,
+    "count": 2
+  },
+  {
+    "emotion_id": 54273,
+    "emotion": "Obstructed",
+    "X": 0.2775,
+    "Y": -0.1925,
+    "count": 1
+  },
+  {
+    "emotion_id": 54288,
+    "emotion": "Heeded",
+    "X": 0.225,
+    "Y": 0.01,
+    "count": 1
+  },
+  {
+    "emotion_id": 54290,
+    "emotion": "Dithery",
+    "X": 0.065,
+    "Y": 0.305,
+    "count": 3
+  },
+  {
+    "emotion_id": 54295,
+    "emotion": "Reclusive",
+    "X": 0.1675,
+    "Y": 0.975,
+    "count": 1
+  },
+  {
+    "emotion_id": 54296,
+    "emotion": "Groundless",
+    "X": 0.355,
+    "Y": 0.7575,
+    "count": 1
+  },
+  {
+    "emotion_id": 54299,
+    "emotion": "Infuriated",
+    "X": 0.575,
+    "Y": -0.995,
+    "count": 2
+  },
+  {
+    "emotion_id": 54302,
+    "emotion": "Fuming",
+    "X": 0.5875,
+    "Y": -0.8075,
+    "count": 1
+  },
+  {
+    "emotion_id": 54305,
+    "emotion": "Acrimonious",
+    "X": 0.565,
+    "Y": -0.9825,
+    "count": 1
+  },
+  {
+    "emotion_id": 54310,
+    "emotion": "Hostile",
+    "X": 0.53083333,
+    "Y": -0.5441667,
+    "count": 1
+  },
+  {
+    "emotion_id": 54312,
+    "emotion": "Aggravated",
+    "X": 0.71083333,
+    "Y": -0.5291667,
+    "count": 3
+  },
+  {
+    "emotion_id": 54314,
+    "emotion": "Aggitated",
+    "X": 0.725,
+    "Y": -0.525,
+    "count": 2
+  },
+  {
+    "emotion_id": 54328,
+    "emotion": "Wounded",
+    "X": 0.65,
+    "Y": 0.2925,
+    "count": 1
+  },
+  {
+    "emotion_id": 54329,
+    "emotion": "Crushed",
+    "X": 0.895,
+    "Y": 0.0525,
+    "count": 1
+  },
+  {
+    "emotion_id": 54330,
+    "emotion": "Unhappy",
+    "X": 0.8825,
+    "Y": 0.1225,
+    "count": 1
+  },
+  {
+    "emotion_id": 54335,
+    "emotion": "Crummy",
+    "X": 0.9375,
+    "Y": 0.67,
+    "count": 1
+  },
+  {
+    "emotion_id": 54352,
+    "emotion": "Clouded",
+    "X": 0.9325,
+    "Y": 0.5525,
+    "count": 1
+  },
+  {
+    "emotion_id": 54356,
+    "emotion": "Defended",
+    "X": -0.845,
+    "Y": 0.9875,
+    "count": 1
+  },
+  {
+    "emotion_id": 54372,
+    "emotion": "Gay",
+    "X": -0.4825,
+    "Y": -0.315,
+    "count": 1
+  },
+  {
+    "emotion_id": 54374,
+    "emotion": "Incandescent",
+    "X": 0.285,
+    "Y": -0.685,
+    "count": 1
+  },
+  {
+    "emotion_id": 58521,
+    "emotion": "Resilient",
+    "X": -0.3733333,
+    "Y": -0.5666667,
+    "count": 4
+  },
+  {
+    "emotion_id": 58721,
+    "emotion": "Bound",
+    "X": 0.86666667,
+    "Y": 0.33,
+    "count": 1
+  },
+  {
+    "emotion_id": 59041,
+    "emotion": "Monachopsis",
+    "X": 0.45666667,
+    "Y": -0.07,
+    "count": 1
+  },
+  {
+    "emotion_id": 59161,
+    "emotion": "Klexos",
+    "X": -0.4533333,
+    "Y": 0.54333333,
+    "count": 2
+  },
+  {
+    "emotion_id": 80401,
+    "emotion": "Agnosthesia",
+    "X": 0.08666667,
+    "Y": 0.17,
+    "count": 3
+  },
+  {
+    "emotion_id": 80481,
+    "emotion": "Altschmerz",
+    "X": 0.61333333,
+    "Y": 0.45333333,
+    "count": 4
+  },
+  {
+    "emotion_id": 80601,
+    "emotion": "Anecdoche",
+    "X": 0.89666667,
+    "Y": 0.13666667,
+    "count": 3
+  },
+  {
+    "emotion_id": 80721,
+    "emotion": "Apomakrysmenophobia",
+    "X": 0.19666667,
+    "Y": 0.31333333,
+    "count": 1
+  },
+  {
+    "emotion_id": 80761,
+    "emotion": "Backsmacking",
+    "X": -0.14,
+    "Y": 0.01666667,
+    "count": 1
+  },
+  {
+    "emotion_id": 81241,
+    "emotion": "Lutalica",
+    "X": -0.35,
+    "Y": -0.05,
+    "count": 1
+  },
+  {
+    "emotion_id": 81401,
+    "emotion": "Nementia",
+    "X": 0.2,
+    "Y": -0.04,
+    "count": 1
+  },
+  {
+    "emotion_id": 81441,
+    "emotion": "Nighthawk",
+    "X": 0.41,
+    "Y": -0.3733333,
+    "count": 1
+  },
+  {
+    "emotion_id": 82481,
+    "emotion": "Xeno",
+    "X": -0.0766667,
+    "Y": 0.89,
+    "count": 1
+  },
+  {
+    "emotion_id": 117721,
+    "emotion": "Centered",
+    "X": -0.48,
+    "Y": 0.02,
+    "count": 1
+  },
+  {
+    "emotion_id": 117841,
+    "emotion": "Hungry",
+    "X": -0.1866667,
+    "Y": -0.8633333,
+    "count": 4
+  },
+  {
+    "emotion_id": 222841,
+    "emotion": "Uplifted",
+    "X": -0.3233333,
+    "Y": -0.58,
+    "count": 3
+  },
+  {
+    "emotion_id": 336241,
+    "emotion": "Harmonised",
+    "X": -0.7866667,
+    "Y": 0.27666667,
+    "count": 1
+  },
+  {
+    "emotion_id": 341001,
+    "emotion": "Upbeat",
+    "X": -0.3066667,
+    "Y": -0.2233333,
+    "count": 4
+  },
+  {
+    "emotion_id": 342001,
+    "emotion": "Better",
+    "X": -0.2166667,
+    "Y": -0.2233333,
+    "count": 2
+  }
+]

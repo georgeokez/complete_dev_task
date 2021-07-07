@@ -1,6 +1,5 @@
 .content-container{
     flex: 6;
-    background-color:aqua;
     /* height: calc(100vh - 50px); */
     height: auto;
     padding: 20px;
@@ -10,20 +9,19 @@
     border-radius: 4;
     text-align: center;
     color:bisque;
-    height:300px;
 }
 
 .heat-map{
     border-radius: 4;
     text-align: center;
     color:bisque;
-    height:500px;
+    height: auto;
 }
 
 .list-view{
     border-radius: 4;
     text-align: center;
     color:bisque;
-    height:500px;
+    height: 100%;
 }
     

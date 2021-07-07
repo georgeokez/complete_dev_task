@@ -16,15 +16,15 @@ function MenuBarTop() {
                 </div>
                 <div className="topbar-right">
                     <MenuItem className="menu-item">
-                        <IconButton aria-label="show 4 new mails" color="inherit">
-                        <Badge badgeContent={4} color="secondary">
+                        <IconButton aria-label="show 3 new mails" color="inherit">
+                        <Badge badgeContent={3} color="secondary">
                             <MailIcon />
                         </Badge>
                         </IconButton>
                     </MenuItem>
                     <MenuItem className="menu-item">
-                        <IconButton aria-label="show 11 new notifications" color="inherit">
-                        <Badge badgeContent={11} color="secondary">
+                        <IconButton aria-label="show 7 new notifications" color="inherit">
+                        <Badge badgeContent={7} color="secondary">
                             <NotificationsIcon />
                         </Badge>
                         </IconButton>

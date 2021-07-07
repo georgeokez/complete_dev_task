@@ -1,74 +1,94 @@
-import React from 'react';
+import {React, useState} from 'react';
 import { LineChart, Line, XAxis, YAxis, CartesianGrid, Tooltip, Legend, ResponsiveContainer } from 'recharts';
+import LaunchIcon from '@material-ui/icons/Launch';
+import "./chart.css";
+import {data} from '../../data/DataUtils';
 
-const data = [
-    {
-      name: 'Page A',
-      uv: 4000,
-      pv: 2400,
-      amt: 2400,
-    },
-    {
-      name: 'Page B',
-      uv: 3000,
-      pv: 1398,
-      amt: 2210,
-    },
-    {
-      name: 'Page C',
-      uv: 2000,
-      pv: 9800,
-      amt: 2290,
-    },
-    {
-      name: 'Page D',
-      uv: 2780,
-      pv: 3908,
-      amt: 2000,
-    },
-    {
-      name: 'Page E',
-      uv: 1890,
-      pv: 4800,
-      amt: 2181,
-    },
-    {
-      name: 'Page F',
-      uv: 2390,
-      pv: 3800,
-      amt: 2500,
-    },
-    {
-      name: 'Page G',
-      uv: 3490,
-      pv: 4300,
-      amt: 2100,
-    },
-  ];
+  import InputLabel from '@material-ui/core/InputLabel';
+  import MenuItem from '@material-ui/core/MenuItem';
+  import FormControl from '@material-ui/core/FormControl';
+  import Select from '@material-ui/core/Select';
+  import Button from '@material-ui/core/Button';
+
+const chartData = [...data]
 
 function LineChartComp() {
+
+    const [dataSize, setDataSize] = useState(10);
+    const [open, setOpen] = useState(false);
+
+    const handleChange = (event) => {
+        setDataSize(event.target.value);
+      };
+    
+      const handleClose = () => {
+        setOpen(false);
+      };
+    
+      const handleOpen = () => {
+        setOpen(true);
+      };
+
+    let chartData = [...data]
+    chartData = chartData.slice(0,dataSize);
+
     return (
-        <ResponsiveContainer width="100%">
-            <LineChart
-            width={500}
-            height={300}
-            data={data}
-            margin={{
-                top: 5,
-                right: 30,
-                left: 20,
-                bottom: 5,
-            }}
-            >
-            <CartesianGrid strokeDasharray="3 3" />
-            <XAxis dataKey="name" />
-            <YAxis />
-            <Tooltip />
-            <Legend />
-            <Line type="monotone" dataKey="pv" stroke="#8884d8" activeDot={{ r: 8 }} />
-            {/* <Line type="monotone" dataKey="uv" stroke="#82ca9d" /> */}
-            </LineChart>
-      </ResponsiveContainer>
+        <div className="chart">
+            <div className="chart-title-panel">
+                <h3 className='chart-title' style={{margin: '0'}}>Emotions by Count({dataSize})</h3>
+                
+
+                <div className='panel-controls'>              
+                    <FormControl className='form-control'>
+                        <div className='form-content'>
+                            <lable className='form-label'>Select Size</lable>
+                                {/* <InputLabel id="demo-controlled-open-select-label">Select Size</InputLabel> */}
+                            <Select
+                                labelId="demo-controlled-open-select-label"
+                                id="demo-controlled-open-select"
+                                open={open}
+                                onClose={handleClose}
+                                onOpen={handleOpen}
+                                value={dataSize}
+                                onChange={handleChange}
+                                >
+                                Select Size 
+                                <MenuItem value="">
+                                    <em>None</em>
+                                </MenuItem>
+                                <MenuItem value={10}>10</MenuItem>
+                                <MenuItem value={20}>20</MenuItem>
+                                <MenuItem value={30}>30</MenuItem>
+                                <MenuItem value={40}>40</MenuItem>
+                                <MenuItem value={50}>50</MenuItem>
+                                <MenuItem value={100}>100</MenuItem>
+                                <MenuItem value={data.length}>Max</MenuItem>
+
+                            </Select>
+                        </div>      
+                    </FormControl>
+                  <LaunchIcon className='expand-panel' />
+                </div>  
+            </div>
+            
+            <ResponsiveContainer width="100%" aspect={3/1}>
+                <LineChart
+                data={chartData}
+                margin={{
+                    top: 5,
+                    right: 30,
+                    left: 20,
+                    bottom: 5,
+                }}
+                >
+                <CartesianGrid strokeDasharray="3 3" />
+                <XAxis dataKey="emotion" />
+                <YAxis />
+                <Tooltip />
+                <Line type="monotone" dataKey="count" stroke="#8884d8" activeDot={{ r: 8 }} />
+                </LineChart>
+        </ResponsiveContainer>
+      </div>
     )
 }
 

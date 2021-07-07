@@ -18,4 +18,4 @@ df_emotion = countEmotions(df_data)
 
 #step 3: Export the new dataframe to a json file in the js_task folder to be used in part 2 - visualising
 
-df_emotion.to_json('../js_task/emotion_data.json', orient='records')
+df_emotion.to_json('../js_task/src/data/emotion_data.json', orient='records')

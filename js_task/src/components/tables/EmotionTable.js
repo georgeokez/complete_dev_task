@@ -6,40 +6,37 @@ import TableCell from '@material-ui/core/TableCell';
 import TableContainer from '@material-ui/core/TableContainer';
 import TableHead from '@material-ui/core/TableHead';
 import TableRow from '@material-ui/core/TableRow';
-import Paper from '@material-ui/core/Paper';
+import {data} from '../../data/DataUtils';
 
-function createData(name, calories, fat, carbs, protein) {
-    return { name, calories, fat, carbs, protein };
-  }
-  
-const rows = [
-    createData('Frozen yoghurt', 159, 6.0, 24, 4.0),
-    createData('Ice cream sandwich', 237, 9.0, 37, 4.3),
-    createData('Eclair', 262, 16.0, 24, 6.0),
-    createData('Cupcake', 305, 3.7, 67, 4.3),
-    createData('Gingerbread', 356, 16.0, 49, 3.9),
-];
+const last7data = data.slice(-7);
+
+const rows = last7data;
 
 function EmotionTable() {
     return (
         <div className="table-container">
+             <div className="chart-title-panel">
+                <h3 className='chart-title' style={{margin: '0'}}>Newly Added Emotions</h3>
+            </div>
              <TableContainer>
                 <Table className='table' aria-label="simple table">
                     <TableHead>
                     <TableRow>
-                        <TableCell></TableCell>
-                        <TableCell align="right">Emotions</TableCell>
-                        <TableCell align="right">Count</TableCell>
+                        <TableCell>Id</TableCell>
+                        <TableCell align="left">Emotions</TableCell>
+                        <TableCell align="left">X</TableCell>
+                        <TableCell align="left">Y</TableCell>
                     </TableRow>
                     </TableHead>
                     <TableBody>
                     {rows.map((row) => (
-                        <TableRow key={row.name}>
+                        <TableRow key={row.emotion_id}>
+                        <TableCell align="left">{row.emotion_id}</TableCell>
                         <TableCell component="th" scope="row">
-                            {row.name}
+                            {row.emotion}
                         </TableCell>
-                        <TableCell align="right">{row.calories}</TableCell>
-                        <TableCell align="right">{row.fat}</TableCell>
+                        <TableCell align="left">{row.X}</TableCell>
+                        <TableCell align="left">{row.Y}</TableCell>
                     </TableRow>
                     ))}
                     </TableBody>
