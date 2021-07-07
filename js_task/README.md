@@ -20,3 +20,7 @@ The Python program was designed to persist the converted data into the folder pa
 ### Running JS Application
 
 To run app, run npm i in the terminal and then npm run start
+
+## Custom Link
+
+Link to the JS App can be found [https://complete-task-data-analytics.netlify.app/](link)
