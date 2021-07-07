@@ -26,6 +26,8 @@ import {
   import { scaleOrdinal } from 'd3-scale';
   import { schemeCategory10 } from 'd3-scale-chromatic';
 
+  import {Link} from 'react-router-dom';
+
   import "./chart.css";
 
   const colors = scaleOrdinal(schemeCategory10).range();
@@ -80,7 +82,9 @@ function ScatterChartComp() {
                             </Select>
                         </div>      
                     </FormControl>
-                  <LaunchIcon className='expand-panel' />
+                 <Link to='/heat-map'>
+                    <LaunchIcon className='expand-panel' />
+                  </Link>
                 </div>            
             </div>
           <ResponsiveContainer width="100%" aspect={2/1} >

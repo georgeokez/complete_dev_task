@@ -4,11 +4,13 @@ import LaunchIcon from '@material-ui/icons/Launch';
 import "./chart.css";
 import {data} from '../../data/DataUtils';
 
-  import InputLabel from '@material-ui/core/InputLabel';
-  import MenuItem from '@material-ui/core/MenuItem';
-  import FormControl from '@material-ui/core/FormControl';
-  import Select from '@material-ui/core/Select';
-  import Button from '@material-ui/core/Button';
+import InputLabel from '@material-ui/core/InputLabel';
+import MenuItem from '@material-ui/core/MenuItem';
+import FormControl from '@material-ui/core/FormControl';
+import Select from '@material-ui/core/Select';
+import Button from '@material-ui/core/Button';
+
+import {Link} from 'react-router-dom';
 
 const chartData = [...data]
 
@@ -67,7 +69,9 @@ function LineChartComp() {
                             </Select>
                         </div>      
                     </FormControl>
-                  <LaunchIcon className='expand-panel' />
+                    <Link to='/line-chart'>
+                        <LaunchIcon className='expand-panel' />
+                    </Link>
                 </div>  
             </div>
             

@@ -4,13 +4,16 @@ import LaunchIcon from '@material-ui/icons/Launch';
 import "./chart.css";
 import {sortedData} from '../../data/DataUtils';
 
+import {Link} from 'react-router-dom';
 
 function BarChartComp() {
     return (
         <div className="chart">
             <div className="chart-title-panel">
                 <h3 className='chart-title' style={{margin: '0'}}>Top 10 Emotions</h3>
-                <LaunchIcon className='expand-panel' />
+                <Link to='/bar-chart'>
+                    <LaunchIcon className='expand-panel' />
+                </Link>
             </div>
             <ResponsiveContainer width="100%" aspect={3/1}>
                 <BarChart

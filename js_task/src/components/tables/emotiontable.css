@@ -25,3 +25,8 @@
 .chart-tile{
     margin: 0 !important;
 }
+
+.data-table{
+    height: 550px;
+    width: '100%';
+}

@@ -6,13 +6,16 @@ import Badge from '@material-ui/core/Badge';
 import MailIcon from '@material-ui/icons/Mail';
 import NotificationsIcon from '@material-ui/icons/Notifications';
 import AccountCircle from '@material-ui/icons/AccountCircle';
+import {Link} from 'react-router-dom';
 
 function MenuBarTop() {
     return (
         <div classNames="menu-top-bar">
             <div className="meun-topbar-wrapper">
                 <div className="topbar-left">
-                    <span className="logo">JS Task Dashboard</span>
+                    <Link to='/'>
+                        <span className="logo">Dashboard</span>
+                    </Link>
                 </div>
                 <div className="topbar-right">
                     <MenuItem className="menu-item">
